@@ -1,3 +1,6 @@
 __pycache__
 settings.json
-Assets/*
+
+Assets/nginx-1.25.5/
+Assets/nginx-rtmp-module/
+Assets/nginx-1.25.5.tar.gz
