@@ -3,7 +3,7 @@ from mongoengine import document, ObjectIdField, StringField
 class Chats(document):
     """The ODM for storing the live chats"""
 
-    streamer_id = ObjectIdField()
+    stream_id = ObjectIdField()
 
     user_id = ObjectIdField()
 
